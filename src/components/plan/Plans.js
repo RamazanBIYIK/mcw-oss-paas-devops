@@ -37,7 +37,7 @@ export default class Plans extends Component {
                                 <div class="description">
                                     <div class="plan-details">
                                         {planLogo}
-                                        <h2 class="persons">{plan.portionSize}</h2>
+                                        <h2 class="INSANCIKLAR">{plan.portionSize}</h2>
                                         <div class="meals-per-week">{plan.mealsPerWeek}</div>
                                     </div>
                                     <div>{plan.description}</div>
