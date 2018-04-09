@@ -31,7 +31,7 @@ export default class Plans extends Component {
             return (
                 <Col xs={12} sm={4} md={4}>
                     <Well>
-                        <div class="plan-wrap1per">
+                        <div class="plan-wrapper">
                             <div class="plan">
                                 <div class="name">{plan.friendlyName}</div>
                                 <div class="description">
