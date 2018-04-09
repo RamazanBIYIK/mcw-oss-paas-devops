@@ -42,7 +42,7 @@ export default class Plans extends Component {
                                     </div>
                                     <div>{plan.description}</div>
                                 </div>
-                                <div class="plan-price">
+                                <div class="plan-price1">
                                     <div class="price-block">
                                         <span class="price">${plan.price}</span>
                                         <span class="week">/Week</span>
